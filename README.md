@@ -1,2 +1,2 @@
 # Malignant_comment_classifier_project
-To identify whether the given project is Malignant or not.
+To identify whether the given comment is Malignant or not.
